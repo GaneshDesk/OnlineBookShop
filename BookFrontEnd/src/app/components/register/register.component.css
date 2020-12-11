@@ -1,0 +1,17 @@
+.box{
+    height: 10px;
+    width: 60rem;
+    background-color: rgb(48, 206, 193);
+    position: center;
+}
+
+.headbox{
+    background-color: aqua;
+    height: 6rem;
+    width: 60rem;
+    text-align: center;
+    margin-top: 10px;
+}
+.title{
+    padding-top: 22px;
+}
